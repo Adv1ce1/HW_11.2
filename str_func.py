@@ -1,3 +1,5 @@
+messages = input()
+print(messages.upper())
 def capitalize():
     return n.upper()
 n = input()
